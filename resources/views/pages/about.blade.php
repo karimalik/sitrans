@@ -25,49 +25,46 @@
                 <div class="col-lg-5 pb-4 pb-lg-0">
                     <img class="img-fluid w-100" src="img/about.jpg" alt="">
                     <div class="bg-primary text-dark text-center p-4">
-                        <h3 class="m-0">25+ Years Experience</h3>
+                        <h3 class="m-0">26+ Ans D'Experience</h3>
                     </div>
                 </div>
                 <div class="col-lg-7">
-                    <h6 class="text-primary text-uppercase font-weight-bold">About Us</h6>
-                    <h1 class="mb-4">Trusted & Faster Logistic Service Provider</h1>
-                    <p class="mb-4">Dolores lorem lorem ipsum sit et ipsum. Sadip sea amet diam dolore sed et. Sit rebum labore sit sit ut vero no sit. Et elitr stet dolor sed sit et sed ipsum et kasd ut. Erat duo eos et erat sed diam duo</p>
-                    <div class="d-flex align-items-center pt-2">
-                        <button type="button" class="btn-play" data-toggle="modal"
-                            data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
-                            <span></span>
-                        </button>
-                        <h5 class="font-weight-bold m-0 ml-4">Play Video</h5>
-                    </div>
+                    <h6 class="text-primary text-uppercase font-weight-bold">QUI SOMMES NOUS ?</h6>
+                    <h1 class="mb-4">Votre Transitaire Fiable et Plus Rapide</h1>
+                    <p class="mb-4">
+                        La société internationale de transit « SITRANS » est une entreprise
+                        exerçant principalement ses activités dans le secteur du commerce internationale et du
+                        transport basée à Douala. Il s’agit d’un groupe de professionnels dotés d’une très grande
+                        expérience au service des importateurs et exportateurs depuis plus 26 ans. Ces différents
+                        professionnels et experts   vous aideront à mener à bien efficacement tous vos besoins et
+                        opérations complexes sur le plan national et international concernant le transit Douanes;
+                        l’import et l’export ; le commerce Général des marchandises.
+                    </p>
+                    <hr>
+                    <h6 class="text-primary text-uppercase font-weight-bold">Pourquoi nous choisir?</h6>
+                    <p class="mb-4">
+                        Depuis plus de 26 ans La Société Internationale de Transit « SITRANS SARL » met à la disposition du monde entier son expertise dans le domaine du transport et de prestations de services divers
+                        Spécialiste du transit et du transport en qualité de Commissionnaire en Douanes agrée (CDA) Justifiée par notre agrément national et notre agrément CEMAC, Dotée d’une forte expérience et d’une très grande
+                        maitrise du domaine, nous possédons les moyens de vous offrir des services de qualité hautement supérieur tout en utilisant un très grand nombre de partenaires présent dans notre vaste réseau. Notre Principal Objectif est de toujours satisfaire aux attentes de nos différents clients dans le monde pour établir une relation de confiance avec celui-ci et par la même occasion étendre notre Notoriété :
+                        « C’est l’efficacité en moindre cout dans toutes vos opérations qui confirment la confiance ».
+
+                    </p>
                 </div>
-            </div>
-        </div>
-        <!-- Video Modal -->
-        <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                        <!-- 16:9 aspect ratio -->
-                        <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always" allow="autoplay"></iframe>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
     <!-- About End -->
 
 
-    <!-- Team Start -->
+
+
+    {{-- <!-- Team Start -->
     <div class="container-fluid pt-5">
         <div class="container">
             <div class="text-center pb-2">
-                <h6 class="text-primary text-uppercase font-weight-bold">Notre Equipes</h6>
-                <h1 class="mb-4">Meet Our Delivery Team</h1>
+                <h6 class="text-primary text-uppercase font-weight-bold">Notre Equipe</h6>
+                <h1 class="mb-4">Découvrez notre équipe</h1>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6">
@@ -141,5 +138,5 @@
             </div>
         </div>
     </div>
-    <!-- Team End -->
+    <!-- Team End --> --}}
 @endsection

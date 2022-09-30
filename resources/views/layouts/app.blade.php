@@ -31,9 +31,9 @@
         <div class="row py-2 px-lg-5">
             <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
+                    <small><i class="fa fa-phone-alt mr-2"></i>(+237) 677 628 459</small>
                     <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>info@example.com</small>
+                    <small><i class="fa fa-envelope mr-2"></i>info@sitrans.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-center text-lg-right">
@@ -91,9 +91,10 @@
                 <div class="row">
                     <div class="col-md-6 mb-5">
                         <h3 class="text-primary mb-4">Get In Touch</h3>
-                        <p><i class="fa fa-map-marker-alt mr-2"></i>Bonanjo,Immeuble OMCC, Première étage</p>
-                        <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
-                        <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                        <p><i class="fa fa-map-marker-alt mr-2"></i>Bonanjo-Douala,Immeuble
+                            Ex ONCPB, Mezanine premier sous sol</p>
+                        <p><i class="fa fa-phone-alt mr-2"></i>(+237) 677 628 459/(+237) 699 393 186</p>
+                        <p><i class="fa fa-envelope mr-2"></i>info@sitrans.com</p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
